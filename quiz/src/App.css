@@ -67,15 +67,15 @@ body{
   color: black;
 }
 .result-box h1{
-  color: blue;
+  color: rgb(10, 10, 228);
   font-weight: bolder;
-  margin-top: 20px;
-  margin-bottom: 40px;
+  margin-top: 15px;
+  margin-bottom: 35px;
 }
 .summary{
   display: flex;
   justify-content: space-between;
-  font-weight: 700;
+  font-weight: 800;
   margin: 15px;
   color: black;
 }
@@ -90,11 +90,11 @@ body{
 }
 .play-again{
   color: rgb(130, 53, 255);
-  border: 2px solid rgb(130, 53, 255);
+  border: 3px solid rgb(130, 53, 255);
 }
 .back{
   color: green;
-  border: 2px solid green;
+  border: 3px solid green;
 }
 .container{
   width: 1000px;
